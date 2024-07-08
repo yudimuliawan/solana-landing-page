@@ -1,7 +1,7 @@
 {
-  "name": "nextly-template",
+  "name": "solana-landing-page",
   "version": "0.1.0",
-  "description": "Nextly Landing Page Template",
+  "description": "temp landing page for solana meme token",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://gituhb.com/web3templates/nextly-template"
+    "url": "https://gituhb.com/yudimuliawan/solana-landing-page"
   },
   "keywords": [
     "nextjs",
